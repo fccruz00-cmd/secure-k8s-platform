@@ -1,0 +1,13 @@
+# Estado do Terraform, contem dados sensiveis em texto claro
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+
+# Variaveis locais
+*.tfvars
+*.auto.tfvars
+
+# Kubeconfig
+kubeconfig
+*.kubeconfig
