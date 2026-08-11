@@ -11,3 +11,4 @@
 # Kubeconfig
 kubeconfig
 *.kubeconfig
+sbom-*.json
